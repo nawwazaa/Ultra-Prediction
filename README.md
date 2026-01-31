@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" id="mainHtml">
 <!-- VERSION 3.0.0 - AI TACTICAL HUB PRO - ABSOLUTE COLOR LOCK -->
 <head>
